@@ -14,3 +14,5 @@ Puteți să vă marcați exercițiile la care aveți dubii, iar la următoarele 
 
 - **Metoda eliminării Gauss-Jordan.**
 - **Calculul inversei unei matrice**, cu și fără metoda Gauss-Jordan.
+- **Spații vectoriale și subspații vectoriale:** determinarea și caracterizarea intersecției a două subspații vectoriale\.
+- **Baze ale spațiilor vectoriale:** verificarea faptului că un sistem de vectori formează o bază și determinarea matricei de trecere de la o bază la alta\.
